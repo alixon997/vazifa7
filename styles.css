@@ -1,0 +1,21 @@
+.aa{
+    color: white;
+    background-color: cadetblue;
+    text-align: center;
+}
+.bb{
+    background-color: lightgreen;
+}
+.cc{
+    background-color: lightblue;
+    width: 400px;
+    height: 350px;
+    text-align: left;
+    border: 2px solid black
+    
+}
+.gg{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
